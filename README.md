@@ -1,7 +1,7 @@
 # Digital Innovation One
 
-## Exercício
+## Página inicial do Instagram
 
-### Página inicial do Instagram
+Neste projeto foram abordados os conceitos de CSS Flexbox e responsividade.
 
-Página de login do Instagram: Nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade, preparando os alunos para as aulas de jogos, nas quais será utilizado o CSS junto ao JavaScript para estilização e posicionamento.
+[Clique aqui para ver online.](https://leonardosposina.github.io/dio-instagram-landing/)
